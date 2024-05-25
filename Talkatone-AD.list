@@ -1,7 +1,7 @@
-# NAME: talkatoneAdBlock
+# NAME: Talkatone-AD
 # AUTHOR: Egg
 # UPDATED: 2024-05-26 12:16
-# DESCRIPTION: 去除 talkatone 中的广告
+# DESCRIPTION: 拦截Talkatone-AD
 
 DOMAIN-SUFFIX,ads.inmobi.com
 DOMAIN-SUFFIX,tappx.com
